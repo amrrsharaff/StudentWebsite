@@ -1,0 +1,68 @@
+/* 
+    Created on : Jan 20, 2017, 10:14:08 AM
+    Author     : Amr Sharaf
+*/
+h1{
+    text-align: center;
+}
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    margin-right: 10px;
+    max-width: 30%;
+    max-height: 30%;
+    float: left;
+}
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+html{
+    background: lightblue;
+}
+.heading{
+    color: white;
+    border: 2px black;
+    border-radius: 5px;
+    background: #556B2F;
+    padding: 15px 32px;
+    width: 20%;
+}
+.copyright{
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: white;
+}
+.projectName{
+    background-color: #68D1F5;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.projectSummary{
+    background-color: #68D1F5;
+    color: black;
+    padding: 15px 32px;
+    width: 20%;
+}
+.text{
+    color: white;
+}
+.buttons{
+    float: left;
+}
